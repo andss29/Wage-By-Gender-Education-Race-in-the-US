@@ -1,1 +1,4 @@
-# Wage-By-Gender-Education-Race-in-the-US
+# Wage By Demographics in the US Over the Year
+This analysis examines wage gaps and growth trends in the United States over nearly five decades, revealing persistent disparities across gender and racial lines. Despite gradual improvements, women consistently earn less than men, and racial gaps remain significant, with White men generating the highest incomes compared to women and other racial groups, such as Black and Hispanic communities.
+
+These disparities are further pronounced when race and gender intersect, with Black and Hispanic women earning the least. While there have been periods of progress, such as narrowing gaps in certain years, the wage gap remains a deeply rooted issue that underscores systemic inequities, highlighting the need for sustained efforts to achieve income equity across all demographics.
