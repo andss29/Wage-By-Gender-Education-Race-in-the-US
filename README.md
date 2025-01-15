@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-202
 
 (2) Tools
 
-**Python:** for data transformation and visualization.
+**Python:** for data transformation and visualization (interactive & static).
 
 Python was used to generate trend line visualizations across different demographics.
 The data was transformed into a long format, integrating Race, Gender, and Education to facilitate deeper analysis and more insightful visualizations.
